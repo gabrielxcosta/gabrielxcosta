@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
 <h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
 
-- 🔭 I am currently studying Physics **Physics at the Federal University of Ouro Preto (UFOP)**
+- 🔭 I am currently studying **Physics at the Federal University of Ouro Preto (UFOP)**
 
 - :mask: I am Scientific Initiation Scholarship in [Simulation of Epidemiological Models in Temporal Mobility Networks](https://github.com/gabrielxcosta/Simulation-of-epidemiological-models-in-temporal-mobility-networks)
 
