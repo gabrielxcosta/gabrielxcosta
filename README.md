@@ -5,7 +5,7 @@
 
 - 🔭 I am currently studying **Physics at the Federal University of Ouro Preto (UFOP)**
 
-- :mask: I am Scientific Initiation Scholarship in [Simulation of Epidemiological Models in Temporal Mobility Networks](https://github.com/gabrielxcosta/Simulation-of-epidemiological-models-in-temporal-mobility-networks)
+- :mask: Scientific Initiation Scholarship in [Simulation of Epidemiological Models in Temporal Mobility Networks](https://github.com/gabrielxcosta/Simulation-of-epidemiological-models-in-temporal-mobility-networks)
 
 - 🌱 I’m currently learning **Machine Learning and Network Science**
 
