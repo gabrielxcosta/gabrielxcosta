@@ -1,7 +1,10 @@
   [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabxcostaxf/)
-  <p align="center">
-    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text" style="width: 300px; height: auto;">
-  </p>
+  <div align="center">
+    <img src="(https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true)" alt="Alt Text 1" style="display: inline-block; margin-right: 20px;">
+    <img src="[relative_path_or_URL2](https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true)" alt="Alt Text 2" style="display: inline-block;">
+  </div>
+
+  https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true
 
   
  
