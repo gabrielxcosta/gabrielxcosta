@@ -1,4 +1,5 @@
   [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabxcostaxf/)
+  ![CSI](gabrielxcosta/CSI_lab.png)
  
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
 <h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
