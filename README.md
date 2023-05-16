@@ -1,5 +1,9 @@
   [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabxcostaxf/)
-  <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text" style="width: 300px; height: auto;">
+  <p align="center">
+    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text" style="width: 300px; height: auto;">
+  </p>
+
+  
  
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
 <h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
