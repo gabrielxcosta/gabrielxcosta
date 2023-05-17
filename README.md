@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="float: left; width: 20%; margin-right: 20px;">
-  <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="float: right; width: 20%; margin-left: 20px;">
+  <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="float: left; width: 10%; margin-right: 20px;">
+  <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="float: right; width: 10%; margin-left: 20px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
