@@ -1,9 +1,12 @@
 <div align="center">
   <a href="https://www.gov.br/cnpq/pt-br">
-    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="float: left; width: 30%; margin-right: 20px;">
+    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="float: left; width: 15%; margin-right: 20px;">
   </a>
+</div>
+
+<div align="center">
   <a href="https://csilab.ufop.br/">
-    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="float: right; width: 30%; margin-left: 20px;">
+    <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="float: right; width: 15%; margin-left: 20px;">
   </a>
 </div>
 
