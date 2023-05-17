@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="float: left; width: 15%; margin-right: 20px;">
+</div>
+
+<div align="center">
   <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="float: right; width: 15%; margin-left: 20px;">
 </div>
 
