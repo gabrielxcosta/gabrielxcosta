@@ -10,6 +10,12 @@
   </a>
 </div>
 
+img {
+  float: left;
+  width: 15%;
+  margin-right: 20px;
+}
+
 
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
 <h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
