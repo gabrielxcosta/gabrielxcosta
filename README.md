@@ -1,12 +1,10 @@
-<div class="row">
-  <div class="col-md-6">
+<div align="center">
+  <div style="display: flex;">
     <a href="https://www.gov.br/cnpq/pt-br">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; margin-right: 20px; max-width: 100px;">
     </a>
-  </div>
-  <div class="col-md-6">
     <a href="https://csilab.ufop.br/">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; margin-left: 20px; max-width: 100px;">
     </a>
   </div>
 </div>
