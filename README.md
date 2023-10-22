@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning **Machine Learning, Network Science, Graph Theory and Optimization**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,git,github,latex,linux,ps,py,pytorch,tensorflow" />
   </a>
