@@ -1,14 +1,13 @@
 <div align="center">
-  <div style="display: flex;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
     <a href="https://www.gov.br/cnpq/pt-br">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; margin-right: 20px; max-width: 100px; margin-bottom: 10px;">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; max-width: 100px; margin-bottom: 10px;">
     </a>
     <a href="https://csilab.ufop.br/">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; margin-left: 20px; max-width: 100px; margin-bottom: 10px;">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; max-width: 100px; margin-bottom: 10px;">
     </a>
   </div>
 </div>
-
 
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
 <h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
