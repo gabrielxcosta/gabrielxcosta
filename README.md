@@ -1,10 +1,11 @@
 <div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="display: flex;">
     <a href="https://www.gov.br/cnpq/pt-br">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; max-width: 100px; margin-bottom: 10px;">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; margin-right: 10px; max-width: 100px; margin-bottom: 10px;">
     </a>
-    <a href="https://csilab.ufop.br/">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; max-width: 100px; margin-bottom: 10px;">
+    <div style="width: 20px;"></div><!-- Espaço horizontal -->
+    <a href="https://csilab.ufop.br">
+      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; margin-left: 10px; max-width: 100px; margin-bottom: 10px;">
     </a>
   </div>
 </div>
