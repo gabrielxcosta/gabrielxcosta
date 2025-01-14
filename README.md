@@ -1,7 +1,5 @@
 <div align="center">
   <div style="display: flex;">
-    <a href="https://www.gov.br/cnpq/pt-br">
-      <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CNPq.png?raw=true" alt="Alt Text 1" style="width: 15%; margin-right: 10px; max-width: 100px; margin-bottom: 10px;">
     </a>
     <a href="https://csilab.ufop.br/">
       <img src="https://github.com/gabrielxcosta/gabrielxcosta/blob/main/CSI_lab.png?raw=true" alt="Alt Text 2" style="width: 15%; margin-left: 10px; max-width: 100px; margin-bottom: 10px;">
@@ -10,13 +8,13 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Gabriel Costa</h1>
-<h3 align="center">:mask: Scientific Initiation Scholarship at CNPq in Simulation of Epidemiological Models in Temporal Mobility Networks</h3>
+<h3 align="center">:mask: Scientific Initiation Scholarship at CNPq</h3>
 
 - 🔭 I am currently studying **Physics at the Federal University of Ouro Preto (UFOP)**
 
 - :mask: Scientific Initiation Scholarship in [Simulation of Epidemiological Models in Temporal Mobility Networks](https://github.com/gabrielxcosta/Simulation-of-epidemiological-models-in-temporal-mobility-networks)
 
-- 🌱 I’m currently learning **Machine Learning, Network Science, Graph Theory and Optimization**
+- 🌱 I’m currently learning **Machine Learning, Network Science and Optimization**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
