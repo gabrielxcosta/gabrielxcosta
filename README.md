@@ -1,7 +1,3 @@
-Aqui está uma versão mais equilibrada:  
-
----
-
 ## Hello, I'm Gabriel Costa  
 
 - **B.Sc. in Physics** - Federal University of Ouro Preto (UFOP)  
