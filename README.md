@@ -2,7 +2,7 @@
 
 - **B.Sc. in Physics** - Federal University of Ouro Preto (UFOP)  
 - **M.Sc. Student in Computer Science** - UFOP  
-- Research in **Machine Learning for Time Series Forecasting in Networks**, focusing on **Graph Neural Networks (GNNs)**  
+- Research in **Machine Learning for Time Series Forecasting in Graphs**, focusing on **Graph Neural Networks (GNNs)**  
 
 ### Research & Projects
 
