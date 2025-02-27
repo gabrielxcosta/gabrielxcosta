@@ -1,20 +1,24 @@
-## Hello, I'm Gabriel Costa
+Aqui está uma versão mais equilibrada:  
+
+---
+
+## Hello, I'm Gabriel Costa  
 
 - **B.Sc. in Physics** - Federal University of Ouro Preto (UFOP)  
 - **M.Sc. Student in Computer Science** - UFOP  
-- Research in **Machine Learning for Time Series Forecasting in Graphs**, focusing on **Graph Neural Networks (GNNs)**
+- Research in **Graph Neural Networks for Time Series Forecasting**  
 - Collaborator at the Intelligent Systems Computing Laboratory (CSILAB-UFOP)  
 
-### Research & Projects
+### Research & Projects  
 
-- **CNPq Research Fellow**: River level prediction using deep learning, evaluating Google's **TimesFM** model against **LSTM** and **Prophet**.  
-- **Former CNPq Fellow**: Simulating epidemiological models in temporal mobility networks, using real and synthetic data for disease spread modeling.  
+- **CNPq Research Fellow**: River level prediction using deep learning, comparing **TimesFM**, **LSTM**, and **Prophet**.  
+- **Former CNPq Fellow**: Simulated epidemiological models in temporal mobility networks using real and synthetic data.  
 
-### Skills & Interests
+### Skills & Interests  
 
-- Python, Data Analysis, Machine Learning, Numerical Simulation  
-- Graph Neural Networks, Deep Learning, Network Science, Computational Modeling  
-- Passionate about challenging projects in **Data Science, AI, and Network Science**.  
+- **Languages & Tools**: Python, C, C++, Git, Linux, LaTeX  
+- **ML & Data Science**: Deep Learning, GNNs, Network Science, Computational Modeling  
+- **Libraries**: PyTorch, TensorFlow, NumPy, Pandas, Matplotlib  
 
 <div>
   <a href="https://github.com/gabrielxcosta">
