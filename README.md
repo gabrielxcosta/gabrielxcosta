@@ -1,9 +1,19 @@
 ## Hello, I'm Gabriel Costa
 
-- I am a Physics student at the Federal University of Ouro Preto (UFOP)  
-- Research areas: Machine Learning, Network Science, Graph Neural Networks (GNNs), Data Mining and Digital Image Processing  
-- Scientific Initiation Scholarship at CNPq in [Simulation of Epidemiological Models in Temporal Mobility Networks](https://github.com/gabrielxcosta/Simulation-of-epidemiological-models-in-temporal-mobility-networks)  
-- Member of the CSI Lab (UFOP) <https://csilab.ufop.br/>  
+- **B.Sc. in Physics** - Federal University of Ouro Preto (UFOP)  
+- **M.Sc. Student in Computer Science** - UFOP  
+- Research in **Machine Learning for Time Series Forecasting in Networks**, focusing on **Graph Neural Networks (GNNs)**  
+
+### Research & Projects
+
+- **CNPq Research Fellow**: River level prediction using deep learning, evaluating Google's **TimesFM** model against **LSTM** and **Prophet**.  
+- **Former CNPq Fellow**: Simulating epidemiological models in temporal mobility networks, using real and synthetic data for disease spread modeling.  
+
+### Skills & Interests
+
+- Python, Data Analysis, Machine Learning, Numerical Simulation  
+- Graph Neural Networks, Deep Learning, Network Science, Computational Modeling  
+- Passionate about challenging projects in **Data Science, AI, and Network Science**.  
 
 <div>
   <a href="https://github.com/gabrielxcosta">
@@ -32,6 +42,6 @@
  
 <div> 
   <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 	<a href="https://www.linkedin.com/in/gabxcostaxf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabrielxcosta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabxcostaxf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabrielxcosta/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
