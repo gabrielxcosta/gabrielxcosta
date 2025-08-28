@@ -3,12 +3,7 @@
 - **B.Sc. in Physics** - Federal University of Ouro Preto (UFOP)  
 - **M.Sc. Student in Computer Science** - UFOP  
 - Research in **Graph Neural Networks for Time Series Forecasting**  
-- Collaborator at the Intelligent Systems Computing Laboratory (CSILAB-UFOP)  
-
-### Research & Projects  
-
-- **CNPq Research Fellow**: River level prediction using deep learning, comparing **TimesFM**, **LSTM**, and **Prophet**.  
-- **Former CNPq Fellow**: Simulated epidemiological models in temporal mobility networks using real and synthetic data.  
+- Collaborator at the Intelligent Systems Computing Laboratory (CSILAB-UFOP)   
 
 ### Skills & Interests  
 
