@@ -9,7 +9,7 @@
 
 - **Languages & Tools**: Python, C, C++, Git, Linux, LaTeX  
 - **ML & Data Science**: Deep Learning, GNNs, Network Science, Computational Modeling  
-- **Libraries**: PyTorch, TensorFlow, NumPy, Pandas, Matplotlib  
+- **Libraries**: PyTorch, NumPy, Pandas, Matplotlib, Sklearn
 
 <div>
   <a href="https://github.com/gabrielxcosta">
