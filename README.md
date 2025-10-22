@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Gabriel Costa  
+# 👋 Hello, I'm Gabriel Costa  
 
 🎓 **B.Sc. in Physics** — Federal University of Ouro Preto (UFOP)  
 💻 **M.Sc. Student in Computer Science** — UFOP  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Research Interests  
+## Research Interests  
 
 - **Graph Neural Networks (GNNs)** for spatio-temporal data  
 - **Time Series Forecasting** and dynamical systems modeling  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧰 Skills & Tools  
+### Skills & Tools  
 
 - **Languages**: Python, C, C++, Bash  
 - **Libraries**: PyTorch, PyTorch Geometric Temporal, NumPy, Pandas, Matplotlib, Scikit-learn  
@@ -33,7 +33,7 @@
 
 ---
 
-### 🧩 Tech Stack  
+### Tech Stack  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌐 Connect with me  
+### Connect with me  
 
 <div> 
   <a href="mailto:gabrielxcosta@gmail.com" target="_blank">
@@ -65,16 +65,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
----
-
-### 📈 Recent Research Highlights  
-
-- 📊 Developing **temporal GNN architectures (DCRNN, GCLSTM, TGCN, AGCRN)** for modeling **mobility and epidemiological data**  
-- ⚙️ Implementing scalable pipelines in **PyTorch Geometric Temporal**  
-- 🧩 Working with **spatio-temporal tensors**, **network topology constraints**, and **metapopulation flow simulations**
-
----
-
-> “Science is built on curiosity and structure — graphs just make both visible.”  
-> — *Gabriel Costa*
