@@ -23,7 +23,7 @@ Collaborator — Intelligent Systems Computing Laboratory (CSILAB-UFOP)
 Python, C, C++, Bash  
 
 **Libraries**  
-PyTorch, PyTorch Geometric Temporal, NumPy, Pandas, Matplotlib, Scikit-learn  
+PyTorch, PyTorch Geometric, PyTorch Geometric Temporal, NumPy, Pandas, Matplotlib, Scikit-learn  
 
 **Tools**  
 Git, Linux, LaTeX, VS Code, Jupyter  
