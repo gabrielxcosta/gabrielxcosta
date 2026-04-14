@@ -6,6 +6,9 @@ M.Sc. Student in Computer Science — UFOP
 Research focus: Graph Neural Networks (GNNs) and Spatio-Temporal Forecasting  
 Collaborator — Intelligent Systems Computing Laboratory (CSILAB-UFOP)  
 
+- CSILAB: https://csilab.ufop.br/  
+- PPGCC-UFOP: https://www3.decom.ufop.br/pos/inicio/  
+
 ---
 
 ## Research Interests  
@@ -27,17 +30,6 @@ PyTorch, PyTorch Geometric, PyTorch Geometric Temporal, NumPy, Pandas, Matplotli
 
 **Tools**  
 Git, Linux, LaTeX, VS Code, Jupyter  
-
----
-
-## GitHub Stats  
-
-## GitHub Stats  
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielxcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielxcosta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
