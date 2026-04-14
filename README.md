@@ -33,8 +33,8 @@ Git, Linux, LaTeX, VS Code, Jupyter
 ## GitHub Stats  
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielxcosta&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielxcosta&layout=compact&langs_count=8&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielxcosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielxcosta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
