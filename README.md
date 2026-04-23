@@ -13,10 +13,10 @@ Collaborator — Intelligent Systems Computing Laboratory (CSILAB-UFOP)
 
 ## Research Interests  
 
-- Graph Neural Networks for spatio-temporal data  
-- Time series forecasting and dynamical systems  
-- Network science and complex systems  
-- Deep learning architectures
+- Graph Neural Networks for Spatio-Temporal Data  
+- Time Series Forecasting and Dynamical Systems  
+- Network science and Complex Systems  
+- Deep learning Architectures and Pipelines
 
 ---
 
