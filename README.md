@@ -16,7 +16,7 @@ Collaborator — Intelligent Systems Computing Laboratory (CSILAB-UFOP)
 - Graph Neural Networks for spatio-temporal data  
 - Time series forecasting and dynamical systems  
 - Network science and complex systems  
-- Deep learning architectures: RNNs, GCLSTM, TGCN, DCRNN, AGCRN, Transformers  
+- Deep learning architectures
 
 ---
 
