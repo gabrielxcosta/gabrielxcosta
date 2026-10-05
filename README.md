@@ -6,7 +6,7 @@ M.Sc. Student in Computer Science — UFOP
 Research focus: Graph Neural Networks (GNNs) and Spatio-Temporal Forecasting  
 Collaborator — Intelligent Systems Computing Laboratory (CSILAB-UFOP)  
 
-- CSILAB: https://csilab.ufop.br/  
+- CSILab: https://csilab.ufop.br/  
 - PPGCC-UFOP: https://www3.decom.ufop.br/pos/inicio/  
 
 ---
